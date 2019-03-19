@@ -1,0 +1,19 @@
+{
+  "name": "es6-edu",
+  "version": "1.0.0",
+  "description": "febel bablel  项目编译工具 webpacket webpacket-stream  模块化",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangyinbo/es6-edu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangyinbo/es6-edu/issues"
+  },
+  "homepage": "https://github.com/tangyinbo/es6-edu#readme"
+}
